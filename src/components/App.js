@@ -12,7 +12,7 @@ export class App extends Component {
       <div class="header"></div>
       <main>
         <div class="hero">
-          <img src="/src/img/hero.jpg">  
+          <img src="img/hero.jpg">  
         </div>
       </main>
       <div class="cart"></div>
